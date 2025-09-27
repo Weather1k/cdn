@@ -1,6 +1,0 @@
-name = "weather1k-cdn"
-main = "src/index.ts" # Or "src/worker.js", etc.
-compatibility_date = "2025-09-27"
-
-[assets]
-directory = "./dist" # Or your static asset directory
